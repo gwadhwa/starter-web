@@ -9,3 +9,5 @@ Sample website with plenty of files for demos
 ## Ading new section deployment
 now adding soem text to deployment
 
+
+going deployment for staging
