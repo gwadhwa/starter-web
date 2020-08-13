@@ -7,4 +7,5 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## Ading new section deployment
+now adding soem text to deployment
 
