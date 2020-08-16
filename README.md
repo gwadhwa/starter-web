@@ -18,3 +18,4 @@ going to be in staging, above was commited
 
 THIS ONE IN only in working dir
 
+Thinking of Automerge
