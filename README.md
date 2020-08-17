@@ -14,7 +14,7 @@ going deployment for staging
 
 
 going to be in staging, above was commited
-
+Stash check...
 
 THIS ONE IN only in working dir
 
